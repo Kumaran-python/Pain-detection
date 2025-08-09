@@ -1,0 +1,7 @@
+opencv-python
+deepface
+langgraph
+twilio
+python-dotenv
+numpy
+tf-keras
